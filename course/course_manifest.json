@@ -1,0 +1,15 @@
+{
+  "id": "trane::trane",
+  "name": "Trane",
+  "dependencies": [],
+  "description": "Learn Trane with the help of Trane",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": null,
+  "course_material": null,
+  "course_instructions": null,
+  "generator_config": {
+    "KnowledgeBase": {}
+  }
+}
